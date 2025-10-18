@@ -24,11 +24,11 @@ We illuminate what others obscure.
 
 ⸻
 What We Do
-	•	🔍 Research & Documentation — Investigate how tech infrastructures are being used in harmful or unlawful ways.
-	•	📊 Data Transparency Tools — Build and maintain open-source tools for verifying and visualizing hidden data flows.
-	•	🕵️ Corporate Accountability Reports — Trace supply chains of software, sensors, and data brokers involved in human rights abuses.
-	•	🧾 Policy & Advocacy — Publish evidence-based recommendations for ethical and regulatory reform.
-	•	🌐 Whistleblower Support — Provide secure channels for disclosures of misuse and exploitation within tech systems.
+	• Research & Documentation — Investigate how tech infrastructures are being used in harmful or unlawful ways.
+	• Data Transparency Tools — Build and maintain open-source tools for verifying and visualizing hidden data flows.
+	• Corporate Accountability Reports — Trace supply chains of software, sensors, and data brokers involved in human rights abuses.
+	• Policy & Advocacy — Publish evidence-based recommendations for ethical and regulatory reform.
+	• Whistleblower Support — Provide secure channels for disclosures of misuse and exploitation within big tech companies.
 
 ⸻
 Structure
