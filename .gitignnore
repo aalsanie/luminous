@@ -1,0 +1,41 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# User-specific files
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# AWS, JetBrains, etc. plugin settings
+.idea/**/aws.xml
+.idea/**/contentModel.xml
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# Build output directories
+/out/
+build/
+target/
+
+# Gradle
+.gradle/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Maven
+log/
+!**/src/main/**
+!**/src/test/**
+*.class
+*.war
+*.ear
+
+# Python
+__pycache__/
+*.pyc
+*.p*
