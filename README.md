@@ -48,8 +48,12 @@ To showcase that fear is only a limitation. If you are afraid to contribute to t
 لأن الخوف ليس إلا قيدًا زرعوه فينا.
 
 ------
-Contacts: للتواصل
+Contacts (للتواصل): 
+
 Email: ahmad.alsanie@hotmail.com
+
 Phone number: 00962799330583
+
 Telegram: @S_A00_S
+
 Signal: actions_X.61
