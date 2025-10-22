@@ -1,2 +1,2 @@
-luminous - نور
+Brillante - نور
 -----

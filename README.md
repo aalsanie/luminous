@@ -1,5 +1,6 @@
 Luminous - النور المضيء 
 ----
+
 Nowadays, some projects are used to help us by enabling us to feel secure and safe. On  the other side other projects are using good intent to identify us and help offensive forces to use that technology to kill and extort.
 
 This project aims to counterpart the bad use of tech by the use of advanced tech based on opensource projects to distort data and block signals "waves" that enables surveillance and drives targeting of innocents.
@@ -13,6 +14,7 @@ This project aims to counterpart the bad use of tech by the use of advanced tech
 
 Project Structure ملفات المشروع
 ----
+
 ````
  The Basics
 │   ├── Electricity
@@ -62,7 +64,7 @@ Contributions are welcomed by opening a PR (There is no need to be a developer t
 المساهمات للمشروع مرحب بها (لا يلزم أن تكون مطورًا للمساهمة، يمكنك ببساطة اتباع التعليمات أدناه)
 </div>
 
-[Guide on how to contribute](./CONTRIBUTIONS.md)
+**[Guide on how to contribute](./CONTRIBUTIONS.md)**
 
 -----
 **Why Am I using my real data, contacts and github for this?**
