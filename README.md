@@ -12,27 +12,28 @@ This project aims to counterpart bad use of tech by the use of AI and advanced t
 
 Project Structure ملفات المشروع
 ----
-
-```
-/The Basics
-  /Electricity
-  /Waves
-  /Computers
-  /Algorithms
-  /Transformers
-  /Neural Networks
-  /AI
-  
-  /CPUs
-  /GPUs
-/Terminologies
-/Luminous
-  /src
-  .gitignore
-/Psychology behind mass control
-ٌREADME.md
-```
-
+````
+ The Basics
+│   ├── Electricity
+│   ├── Waves
+│   ├── Computers
+│   ├── Algorithms
+│   ├── Transformers
+│   ├── Neural Networks
+│   ├── AI
+│   ├── CPUs
+│   └── GPUs
+│
+├── Terminologies
+│
+├── Luminous
+│   ├── src
+│   └── .gitignore
+│
+├── Psychology behind mass control
+│
+└── README.md
+````
 
 ------
 Contibutions are welcomed
@@ -42,8 +43,10 @@ Contibutions are welcomed
 
 To showcase that fear is only a limitation. If you are afraid to contribute to this project that is understandable but I believe since you are reading this **you are not**.
 
-*لماذا اشارك تفاصلي؟ *
+*لماذا اشارك تفاصلي؟*
+
 لأن الخوف ليس إلا قيدًا زرعوه فينا.
+
 ------
 Contacts: للتواصل
 Email: ahmad.alsanie@hotmail.com

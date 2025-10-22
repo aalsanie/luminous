@@ -4,6 +4,8 @@
 *.iws
 *.ipr
 
+.idea
+
 # User-specific files
 .idea/**/workspace.xml
 .idea/**/tasks.xml
